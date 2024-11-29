@@ -13,7 +13,7 @@
 - **Lenguajes**: JavaScript, HTML, CSS, SQL, Kotlin
 - **Frameworks/Librerías**: Angular, Node.js, Bootstrap, PrimeNg
 - **Bases de Datos**: MySQL, MariaDB
-- **Herramientas y Plataformas**: Git, GitHub, Visual Studio Code, Postman, Docker
+- **Herramientas y Plataformas**: IntelliJ, Git, GitHub, Visual Studio Code, Postman, Docker
 - **Otros**: REST APIs, Responsive Design,
 
 ## 📊 GitHub Stats
