@@ -26,8 +26,7 @@
 
 ## 🎓 Educación
 
-- **Ies Luis Vives** - Título en Desarrollo de Aplicaciones Web cursando Segundo Año
-
+- Cursando Actualmente el Segundo Año de  Título en Desarrollo de Aplicaciones Web  - **Ies Luis Vives** 
 ## 🌐 Idiomas
 
 - Español (Nativo)
