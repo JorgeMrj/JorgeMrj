@@ -1,4 +1,4 @@
-![banner](banner.png)
+![banner](banner (1).png)
 ---
 # 💻 Bienvenido a Mi Perfil de GitHub!
 
