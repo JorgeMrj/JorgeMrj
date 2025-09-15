@@ -1,4 +1,5 @@
 # 💻 Bienvenido a Mi Perfil de GitHub!
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Jorge%20Morgado%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 [![Estudiante de Desarrollo de Aplicaciones Web](https://img.shields.io/badge/Estudiante-Desarrollo%20de%20Aplicaciones%20Web-blue)]()
 
@@ -19,7 +20,7 @@
 - [Correo Electrónico](mailto:roadtoello2@gmail.com)
 
 ## 🎓 Educación
-- **Ies Luis Vives** - Título en Desarrollo de Aplicaciones Web (Fecha de graduación)
+- **Ies Luis Vives** - Título en Desarrollo de Aplicaciones Web cursando Segundo Año
 
 ## 🌐 Idiomas
 - Español (Nativo)
