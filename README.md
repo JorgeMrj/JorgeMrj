@@ -1,5 +1,6 @@
-# 💻 Bienvenido a Mi Perfil de GitHub!
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Jorge%20Morgado%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+---
+# 💻 Bienvenido a Mi Perfil de GitHub!
 
 [![Estudiante de Desarrollo de Aplicaciones Web](https://img.shields.io/badge/Estudiante-Desarrollo%20de%20Aplicaciones%20Web-blue)]()
 
